@@ -1,8 +1,11 @@
 html, body {
+  margin: 0;
   height: 100%;
   width: 100vw;
-  padding: 0 10px;
+  /* padding: 0 10px; */
 }
+
+/* HEADER */
 
 header {
   display: flex;
@@ -26,4 +29,10 @@ i {
 
 h1 {
   margin: 0;
+}
+
+/* MAIN */
+
+li {
+  list-style: none;
 }
