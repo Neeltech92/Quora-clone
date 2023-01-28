@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100vw;
+  padding: 0 10px;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  position: fixed;
+  background: #fafafa;
+  width: 100vw;
+  height: 50px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  width: 100%;
+}
+
+i {
+  font-size: 1.5em;
+}
+
+h1 {
+  margin: 0;
+}
